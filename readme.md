@@ -1,4 +1,4 @@
-## Laravel 5.6 Monolog Database Handler.
+## Laravel 6.x Monolog Database Handler.
 
 This package will log errors into a database instead storage/log/laravel.log file.
 
