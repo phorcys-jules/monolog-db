@@ -5,7 +5,7 @@ This package will log errors into a database instead storage/log/laravel.log fil
 ### Installation
 
 ~~~
-composer require gordonzero/monolog-db
+composer require philippelamny/monolog-db
 ~~~
 
 Open up `config/logging.php` and find the `channels` key. Add the following channel to the list.
