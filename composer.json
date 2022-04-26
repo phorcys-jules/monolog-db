@@ -1,11 +1,15 @@
 {
-    "name": "philippelamny/monolog-db",
-    "description": "Laravel 6.x Monolog custom database channel",
-    "keywords": ["laravel", "laravel6", "log", "monolog", "database"],
-    "homepage": "https://github.com/philippelamny/monolog-db",
+    "name": "phorcys-jules/monolog-db",
+    "description": "Laravel 8.x Monolog custom database channel / php 8",
+    "keywords": ["laravel", "laravel8", "log", "monolog", "database"],
+    "homepage": "https://github.com/phorcys-jules/monolog-db",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Jules François",
+            "email": "jfrancois968@gmail.com"
+        },
         {
             "name": "Philippe Lam",
             "email": "philippe.lam.ny@gmail.com"
@@ -20,7 +24,7 @@
         }
     ],
     "require": {
-        "php": "^7.4"
+        "php": "^8.0"
     },
     "autoload": {
         "psr-0": {

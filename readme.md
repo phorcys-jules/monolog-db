@@ -1,4 +1,4 @@
-## Laravel 6.x Monolog Database Handler.
+## Laravel 8.x Monolog Database Handler for php 8.
 
 This package will log errors into a database instead storage/log/laravel.log file.
 
@@ -62,5 +62,6 @@ LOG_CHANNEL=database
 
 Based on:
 
+- [Philippe Lamny] (https://github.com/philippelamny/monolog-db)
 - [Mark Hilton] (https://github.com/markhilton/monolog-mysql)
 - [Pedro Fornaza] (https://github.com/pedrofornaza/monolog-mysql)
